@@ -15,7 +15,8 @@ Check out the preprint [here](https://www.biorxiv.org/content/)
 
 ## About
 The code and work in this repo is inspired by the [AlphaPulldown](https://github.com/KosinskiLab/AlphaPulldown) package by the Kosinski Lab.
-We also use code to calculate the pDockQ score of the models, described [here](https://www.nature.com/articles/s41467-022-28865-w), and code adapted from [here](https://github.com/fteufel/alphafold-peptide-receptors/blob/main/pdockq.py)
+
+We also use code to calculate the pDockQ score of the models, described [here](https://www.nature.com/articles/s41467-022-28865-w), and code adapted from [here](https://github.com/fteufel/alphafold-peptide-receptors/blob/main/pdockq.py).
 
 Note this is not a full implementation of what AF3pulldown could be.
 
