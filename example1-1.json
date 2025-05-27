@@ -1,0 +1,21 @@
+{
+  "name": "Template",
+  "modelSeeds": [83, 10, 61, 33,  44],
+  "sequences": [
+    {
+      "protein": {
+        "id": ["A"],
+        "sequence": ""
+      }
+    },
+    {
+      "protein": {
+        "id": ["B"],
+        "sequence": ""
+      }
+    }
+
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}
