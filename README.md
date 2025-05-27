@@ -1,4 +1,4 @@
-### A GitHub repository for the AlphaFold3 informatics in "High-resolution structure of a novel contractile injection system in Salmonella enterica subsp. salamae"
+### A GitHub repository for the AlphaFold3 informatics in "High-resolution structure of a novel contractile injection system in _Salmonella enterica_ subsp. _salamae_"
 
 **Authors**: Rooshanie N. Ejaz¹, Kristin Funke², Claudia S. Kielkopf¹, Freddie J. O. Martin¹, Marta Siborová¹, Ivo A. Hendriks¹, Nicholas Sofos¹˒³, Tillman Pape¹˒³, Eva M. Steiner-Rebrova¹˒⁴, Michael L. Nielsen¹˒⁵, Marc Erhardt²˒⁶, and Nicholas M. I. Taylor¹
 
